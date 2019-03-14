@@ -1,0 +1,42 @@
+#main {
+    font-family: Helvetica, sans-serif;
+    background-color: #f4f4f4;
+}
+
+#title {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0;
+    font-size: 1.6em;
+    color: darkslategrey;
+}
+
+#image {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+}
+
+#img-caption {
+    padding-top: 5px;
+    margin: 0px;
+    display: block;
+    text-align: center;
+}
+
+#tribute-info {
+    margin: 20px;
+    background-color: rgb(255, 255, 255);
+    padding: 10px 20%;
+    box-shadow: 0 2px 6px 0 hsla(0, 0%, 0%, 0.2);
+    border-radius: 1%
+}
+
+#tribute-info h2 {
+    color: rgb(100, 100, 100);
+    text-align: center;
+}
+
+#tribute-info p {
+    line-height: 2em
+}
